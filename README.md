@@ -1,1 +1,1 @@
-# DELC_Project0.0
+# Hamming Code (7,4) Digital Bit Corrector
